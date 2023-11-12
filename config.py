@@ -12,6 +12,6 @@ INTIGIRITY="https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/
 
 YESWEHACK="https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/main/data/yeswehack_data.json"
 
-DB_USER="#"
-DB_PASS="#"
-DB_PATH="#"
+DB_USER="adminmongo"
+DB_PASS="passwordmongohyphen"
+DB_PATH="mongodb://127.0.0.1:27017/"
